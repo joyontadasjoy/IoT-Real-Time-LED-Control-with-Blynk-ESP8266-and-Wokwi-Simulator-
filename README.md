@@ -10,7 +10,6 @@
 <ul>
 	<li>ESP8266</li>
 	<li>3 LEDs</li>
-	<li>3 x 220 ohm resistors</li>
 	<li>Breadboard</li>
 	<li>Jumper wires</li>
 </ul>
