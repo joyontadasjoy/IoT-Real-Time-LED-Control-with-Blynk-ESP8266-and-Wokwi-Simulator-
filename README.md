@@ -25,7 +25,7 @@
 
 <h2>Prototype</h2>
 <p align="center">
-	<img src="https://drive.google.com/uc?id=1cih0V0p-l1XZLlJjE1Ug7VjbSGwOyB7V" alt="Circuit Diagram">
+	<img src="https://github.com/joyontadasjoy/IoT-Real-Time-LED-Control-with-Blynk-ESP8266-and-Wokwi-Simulator-/blob/main/IoT%20Real-Time%20LED%20Control%20with%20Blynk%2C%20ESP8266%2C%20and%20Wokwi%20Simulator.jpg" alt="Prototype">
 </p>
 
 
